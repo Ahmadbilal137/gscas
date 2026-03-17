@@ -85,7 +85,8 @@ justify-content:center;
 
 }
 .card{
-background:black;
+background:white;
+colour:black;
 padding:15px;
 border-radius:10px;
 width:250px;
